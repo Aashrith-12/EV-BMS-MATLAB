@@ -1,0 +1,16 @@
+.DS_Store
+*.mat
+*.asv
+*.bak
+*.slxc
+*.log
+*.xlsx
+*.csv
+*.tmp
+__pycache__/
+.vscode/
+Results/
+Data/
+*.exe
+*.o
+*.so
